@@ -12,7 +12,7 @@ Este repositorio funciona como:
 
 ## 🧑‍🏫 Tutores
 
-El bootcamp es dictado por el equipo de **:contentReference[oaicite:0]{index=0}**, con experiencia real construyendo productos Web3 y trabajando en el ecosistema blockchain.
+El bootcamp es dictado por el equipo de **Trustless Work**, con experiencia real construyendo productos Web3 y trabajando en el ecosistema blockchain.
 
 ---
 
